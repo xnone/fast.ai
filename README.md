@@ -3,7 +3,7 @@ Learning record for fast.ai
 
 Taught by Jemery Howard
 
-Website: [fast.ai](fast.ai)
+Website: [fast.ai](http://www.fast.ai/)
 
 Part I:
 http://course.fast.ai/
